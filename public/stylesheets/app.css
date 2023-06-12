@@ -1,0 +1,46 @@
+/* Index */
+#cluster-map {
+    width: 100%;
+    height: 400px;
+}
+
+.pop-up {
+    text-decoration: none;
+    color: #14092b;
+}
+
+.no-image {
+    /* max-width: 400px; */
+    max-height: 200px;
+}
+
+/* Show */
+#map {
+    width: 100%;
+    height: 300px;
+    margin-bottom: 1rem;
+}
+
+.carousel-img {
+    height: 300px;
+}
+
+.review-card {
+    padding: 0;
+    margin: 10px 10px 0;
+}
+
+#delete-review{
+    margin: 5px 10px 0 0;
+}
+
+.eraser {
+    padding: 0;
+    color: red;
+    background-color: white;
+    border: none;
+}
+
+.fa-eraser {
+    font-size: 1.2rem;
+}
